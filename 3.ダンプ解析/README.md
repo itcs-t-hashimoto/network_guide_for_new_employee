@@ -8,13 +8,14 @@
 把握していくことを目的とします。
 
 ### 用語
-パケット
+
+#### パケット
 https://kotobank.jp/word/%E3%83%91%E3%82%B1%E3%83%83%E3%83%88-7308
 
-カプセル化
+#### カプセル化
 http://atnetwork.info/tcpip/tcpip09.html
 
-符号化
+#### 符号化
 https://kotobank.jp/word/%E7%AC%A6%E5%8F%B7%E5%8C%96-8213
 
 [次へ](text1.md)
